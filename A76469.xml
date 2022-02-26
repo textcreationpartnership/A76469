@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Col: Bethels letter to His Excellence the Lord Fairfax, concerning the surrender of Scarbrough Castle, on Tuesday, Decemb. 19. 1648. Together, with a true copy of the articles for the rendition thereof, and the result of the Councell of War concerning the same.</title>
+            <author>Bethel, Hugh.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76469</idno>
+            <idno type="STC">Wing B2061</idno>
+            <idno type="STC">Thomason E477_29</idno>
+            <idno type="STC">ESTC R205573</idno>
+            <idno type="EEBO-CITATION">99864918</idno>
+            <idno type="PROQUEST">99864918</idno>
+            <idno type="VID">162538</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162538)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E477[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Col: Bethels letter to His Excellence the Lord Fairfax, concerning the surrender of Scarbrough Castle, on Tuesday, Decemb. 19. 1648. Together, with a true copy of the articles for the rendition thereof, and the result of the Councell of War concerning the same.</title>
+                  <author>Bethel, Hugh.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Playford at his shop in the Inner-Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decemb. 25. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Capitulations, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scarborough (England) --  History --  Siege, 1648.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162538:1" rendition="simple:additions"/>
+            <p> COL: BETHELS LETTER TO HIS EXCELLENCE THE Lord Fairfax, Concerning the ſurrender of <hi>Scarbrough</hi> Caſtle, on Tueſday, <hi>Decemb.</hi> 19. 1648.</p>
+            <p>Together, With a true Copy of the Articles for the Ren<g ref="char:EOLhyphen"/>dition thereof, and the Reſult of the Councell of War concerning the ſame.</p>
+            <p>LONDON, Printed for <hi>J. Playford</hi> at his ſhop in the Inner-Temple. <hi>Decemb.</hi> 25. 1648.</p>
+            <pb facs="tcp:162538:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:162538:2"/>
+            <head>
+               <hi>Colonell</hi> Bethels <hi>Letter to his Excellency the Lord</hi> Fairfax.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince I acquainted you with the Treaty concerning the ſurrender of this Caſtle, (and before the re<g ref="char:EOLhyphen"/>ceit of yours) having received Information by very h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſt and well-affected perſons, Seamen of <hi>Scarbrough,</hi> and others, that ſeverall Ships with men and proviſions from the Prince were deſigned hither, and expected every houre for the reliefe of this Caſtle; I cal'd together the Officers here, who unani<g ref="char:EOLhyphen"/>mouſly agreed rather fully to conclude then to runne the hazzard of the inconveniencies that might enſue thereby to the poore Countrey, conſidering we never had yet the happineſſe to have one Ship upon theſe Coaſts, neither any aſſurance thereof (though I have writ ma<g ref="char:EOLhyphen"/>ny times) and indeed if God had not been more mercifull by his pro<g ref="char:EOLhyphen"/>vidence in the winds then any endeavour we have found by man, they had been relieved ere this; but the wind being faire, and not hearing from your Excellency, and having incouragement from Major Gene<g ref="char:EOLhyphen"/>rall <hi>Lambert)</hi> we did conclude for the delivery of the Caſtle accor<g ref="char:EOLhyphen"/>ding to ſeverall Articles which I have herewith ſent you, and are now march't in with Captaine <hi>Lawſons</hi> Company; and though the tearmes may ſeeme better then your Excellency expected (yet in the preſent exigence it could not be avoided.) The Governour is aſha<g ref="char:EOLhyphen"/>med to ſtay in <hi>England,</hi> therefore intends beyond Seas, and likewiſe moſt of the Officers: there is good ſtore of all ſorts of proviſions, eſpe<g ref="char:EOLhyphen"/>cially of Rye, and Butter, and at leaſt 50 barrels of powder, and a great
+<pb n="4" facs="tcp:162538:3"/> quantity of Match, it might very well have holden out theſe three Moneths, had we any hopes or aſſurance of Shipping to have preven<g ref="char:EOLhyphen"/>ted their reliefe, we ſhould not have admitted ſuch Conditions, which I hope however will gaine your Excellencies good Conſtruction (I muſt needs acknowledge your Excellencies high eſteeme of me in thinking me worthy of this place;) Captaine <hi>Lawſon</hi> I conceive well of, but there would be at leaſt a Company or two more in it, which I only offer to your conſideration, hoping your Excellency will thinke of a certaine eſtabliſhment for it as for other places of that concern<g ref="char:EOLhyphen"/>ment, for I hope to give your Excellency upon all occaſions a juſt and faithfull account of what I am intruſted with; ſo I reſt,</p>
+            <closer>
+               <dateline>Scarborough <date>Decem. 19, 1648.</date>
+               </dateline>
+               <signed>
+                  <hi>Your Excellencies moſt humble and faithfull Servant,</hi> Hugh Bethell.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>By the Councell of Warre.</head>
+            <opener>
+               <dateline>Leaguer at <hi>Scarborough,</hi> 
+                  <date>
+                     <hi>Decem.</hi> 12. 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVHereas certaine Intelligence hath been this day given to this Councell, that there is a Ship at Sea which came from <hi>Dunkirke</hi> ready to bring Men, Money, and ſtore of Provi<g ref="char:EOLhyphen"/>ſions for the reliefe of the Caſtle, and (the wind being now faire) will be here very ſpeedily before we can receive Inſtructi<g ref="char:EOLhyphen"/>ons from the Lord Generall; beſides, other Informations alſo gi<g ref="char:EOLhyphen"/>ven us, that ſome of the Princes Ships are alſo at Sea, or ready to ſet to Sea, for their reliefe, we having not any Ships here at pre<g ref="char:EOLhyphen"/>ſent, nor any aſſurance of having any, to hinder the deſignes of the Enemy by Sea: We therefore upon the aforementioned grounds ſeriouſly conſidering, that if the Caſtle get reliefe it will be of great prejudice to the whole Kingdome, have therefore
+<pb n="5" facs="tcp:162538:3"/> thought fit hereby to give full power unto Collonell <hi>Chriſtopher Legard,</hi> Lieutenant Collonell <hi>William Spencer,</hi> Lieutenant Col<g ref="char:EOLhyphen"/>lonell <hi>Barrington Bourcher,</hi> Captaine <hi>Nicholas Conyers,</hi> and Cap<g ref="char:EOLhyphen"/>taine <hi>Iohn Lawſon,</hi> Commiſſioners on our part already nominated, to treat and conclude with the Commiſſioners appointed by Col<g ref="char:EOLhyphen"/>lonell <hi>Mathew Bointon,</hi> Concerning the ſurrender of this Caſtle, aſwell in reference to the giving ſuch Conditions to Collonell <hi>Bointon,</hi> and Captaine <hi>Rowley,</hi> as to our ſaid Commiſſioners ſhall ſeeme expedient, as to all other points and matters concerning the Rendition of the ſaid Caſtle. In teſtimony whereof we have ſub<g ref="char:EOLhyphen"/>ſcribed our names the day and yeare above written.
+<list>
+                  <item>Hugh Bethell,</item>
+                  <item>ArthurStringer,</item>
+                  <item>Io: Bethell,</item>
+                  <item>Robert Le<g ref="char:EOLhyphen"/>gard,</item>
+                  <item>William Legard,</item>
+                  <item>Charles Brocket,</item>
+                  <item>George Blacker,</item>
+                  <item>Walter Bethell,</item>
+                  <item>Thomas Iohnſon,</item>
+                  <item>Io: Attey,</item>
+                  <item>Iohn Beere,</item>
+                  <item>Henry Wilkinſon,</item>
+                  <item>Francis Bacon,</item>
+                  <item>Thomas Weddell,</item>
+                  <item>Charles Legard,</item>
+                  <item>Hugh Savile,</item>
+                  <item>Iames Beſt,</item>
+                  <item>Edward Todd,</item>
+                  <item>William Blacker.</item>
+               </list>
+            </p>
+            <p>Upon the grounds and reaſons above mentioned, we having formerly entruſted and authorized the Gentlemen above named, to treat and conclude as above ſaid, We do therefore now ratifie and confirme all ſuch Articles agreed and concluded upon by the ſaid Commiſſioners concerning the ſurrender of <hi>Scarborough</hi> Ca<g ref="char:EOLhyphen"/>ſtle:</p>
+            <closer>
+               <dateline>In teſtimony whereof we have ſubſcribed our names <date>the 18 day of <hi>December.</hi> 1648.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Hugh Bethell,</item>
+                     <item>Arthur Stringer,</item>
+                     <item>Io: Bethell,</item>
+                     <item>Robert Legard,</item>
+                     <item>William Legard,</item>
+                     <item>Charles Broc<g ref="char:EOLhyphen"/>ket,</item>
+                     <item>George Blacker,</item>
+                     <item>Walter Bethell,</item>
+                     <item>Thomas Iohnſon,</item>
+                     <item>Io: Attey,</item>
+                     <item>Iohn Beere,</item>
+                     <item>Henry Wil<g ref="char:EOLhyphen"/>kinſon,</item>
+                     <item>Francis Bacon,</item>
+                     <item>Thomas Weddell,</item>
+                     <item>Charles Legard,</item>
+                     <item>Hugh Savile,</item>
+                     <item>Iames Beſt,</item>
+                     <item>Edward Todd,</item>
+                     <item>William Blacker.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:162538:4"/>
+            <head>Articles agreed and concluded upon <hi>Decemb.</hi> 17. 1648. be<g ref="char:EOLhyphen"/>twixt Col: <hi>Chriſtopher Legard,</hi> Lievt. Col: <hi>William Spencer,</hi> Lievt. Col: <hi>Barrington Bourcher,</hi> Capt. <hi>Nicholas Conyers,</hi> and Capt. <hi>John Lawſon,</hi> Commiſſioners on the behalfe of Col: <hi>Hugh Bethel,</hi> Commander in chiefe of the Parliament Forces now in Leaguer before Scarborough Caſtle, and Col: <hi>Thomas Fairfax,</hi> Major <hi>Edward Gower,</hi> Major <hi>Thomas Reſton,</hi> Capt. <hi>Roger Newinſon,</hi> and Capt: <hi>Timothy Wilkins,</hi> Commiſſioners for Col: <hi>Mathew Boynton,</hi> Governour of that Caſtle on the behalfe of His Majeſty, concerning the Rendition of the ſaid Caſtle to the ſaid Col: <hi>Hugh Bethell</hi> to the uſe of the Parli<g ref="char:EOLhyphen"/>ament.</head>
+            <p n="1">1. THat upon Tueſday next, being the nineteenth day of <hi>December</hi> inſtant, the Caſtle of <hi>Scarbrough</hi> ſhall be ſurrendred to Col: <hi>Hugh Bethell,</hi> Com<g ref="char:EOLhyphen"/>mander in chiefe, and to the uſe of the Parliament, with all the Armes, Ordnance, and Ammunition, Proviſions and other goods whatſoever, without embezelment, except what is metioded in the enſuing Articles.</p>
+            <p n="2">2. That the Governor, Officers, Gentlemen and Souldiers in the ſaid Caſtle, ſhal march out thereof upon the day &amp; at the houre aforeſaid, with their wearing Apparell and Money, properly their owne; their Colours flying, Drums beating, Muſquets loaden, Bandeleers filled, Matches ligh<g ref="char:EOLhyphen"/>ted, and Bullet in mouth, to a Cloſe called <hi>Scarbrough Com<g ref="char:EOLhyphen"/>mon,</hi> and there to lay downe their Armes, except what is hereafter excepted.</p>
+            <p n="3">
+               <pb n="7" facs="tcp:162538:4"/> 3. That the Governour ſhall march with his Horſe and Armes, offenſive and defenſive, and three ſervants on horſeback to attend him, with their ſwords, to what place he ſhall appoint; every Field-Officer on horſeback, with Sword and Piſtols, and two ſervants on horſebacke with their Swords, every Captaine on horſebacke with their Swords and Piſtols, and one ſervant to attend them, all other Commiſſion-Officers and Gentlemen on Foot with one Piſtoll and Sword, all other Officers and Souldi<g ref="char:EOLhyphen"/>ers with their Swords to their ſeverall habitations, and there to remaine without moleſtation, ſubmitting to all Orders and Ordinances of Parliament; And for any thing done in order to the providing for or ſecuring of the ſaid Garriſon to his Majeſties ſervice, to be freed from Arreſts and other Moleſtations till the firſt of May next enſuing; and all Officers and Souldiers included in theſe Articles, ſhall have liberty to goe about their occaſions to any part of the Kingdome, except beſieged places. And in caſe any one of them ſhall deſire to goe beyond the Seas betwixt the time of the ſurrender of this Garriſon, untill the firſt of May next enſuing, Paſſes ſhall be granted to them to that purpoſe; alſo all ſuch perſons as are imployed about the affaires of this Garriſon, and are not now in cuſtody, ſhall have the benefit of theſe Articles.</p>
+            <p n="4">4. That free Quarter ſhall be granted to all included in theſe Articles in their paſſages to their ſeverall habi<g ref="char:EOLhyphen"/>tations, they travelling eight miles a day, and not ſtay<g ref="char:EOLhyphen"/>ing above one night in a place, except on the Sabbath day: And that all ſicke and wounded perſons ſhall be provided for till they ſhall be recovered, and then to have Paſſes to goe to their ſeverall habitations.</p>
+            <p n="5">
+               <pb n="8" facs="tcp:162538:5"/> 5. That all Gentlewomen within the ſaid Caſtle ſhall be ſuffered to paſſe out with their wearing Apparell, Mo<g ref="char:EOLhyphen"/>ney and Neceſſaries: And the Horſes and other conveni<g ref="char:EOLhyphen"/>ences may be brought for their conveyance to ſuch place as ſhall be nominated: And that all ſuch perſons that ſhall deſire it, ſhall have liberty to hire or procure Horſes for their Money, or from Friends; And the ſame Horſes to be brought on the day of the ſurrender to the backſide of Saint <hi>Maries</hi> Church in Scarborough.</p>
+            <p n="6">6. That all perſons included within theſe Articles now under Sequeſtration, ſhall have liberty to compound.</p>
+            <p n="7">7. That all Priſoners now in cuſtody in the Towne of Scarborough, ſhall upon this Agreement be ſet at liberty.</p>
+            <p n="8">8. In caſe any Officer or Souldier ſhall doe any thing contrary to this Agreement, they ſhall be forthwith deli<g ref="char:EOLhyphen"/>vered up to puniſhment, and that the ſaid breach ſhall pre<g ref="char:EOLhyphen"/>judice none but thoſe that are guilty.</p>
+            <p n="9">9. That a ſufficient Convoy be appointed.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Tho: Fairfax.</item>
+                     <item>Tho: Reſton.</item>
+                     <item>Edw: Gower.</item>
+                     <item>Roger Newinſon.</item>
+                     <item>Timothy Wilkins.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
